@@ -1,0 +1,7 @@
+{
+  "name": "TodoList",
+  "slug": "TodoList",
+  "android": {
+    "package": "com.anonymous.TodoList"
+  }
+}
